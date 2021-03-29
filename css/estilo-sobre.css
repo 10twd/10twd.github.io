@@ -1,0 +1,35 @@
+body {
+    width: auto;
+    height: auto;
+    background-image: url(../img/about-bg.png);
+  }
+  
+  img{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    border-radius: 50%;
+  }
+  
+  .texto{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .texto p{
+    color: black;
+    font-size: 18px;
+  }
+  
+  nav{
+    background-color: black;
+    width: auto;
+    height: 100px;
+  }
+  nav a{
+    font-family: cursive;
+    font-size: 25px;
+    padding: 10px;
+  }
+  
