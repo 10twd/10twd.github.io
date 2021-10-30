@@ -2,7 +2,7 @@ body {
   width: 95%;
   max-width: ;
   margin: auto;
-  background-img: url("..\img\pexels-photo-454507.jpeg");
+  background-image: url("../img/pexels-photo-454507.jpeg");
 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1,5;
